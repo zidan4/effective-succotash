@@ -1,3 +1,3 @@
 # effective-succotash
 
-a simple ca
+a simple calculator in
